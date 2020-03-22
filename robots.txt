@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieshiefoak.ju.wtf/sitemap.xml
